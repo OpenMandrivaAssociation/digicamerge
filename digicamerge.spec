@@ -39,4 +39,5 @@ rm -rf $RPM_BUILD_ROOT
 %doc COPYING CREDITS NEWS PKG-INFO README TODO
 %_bindir/%name
 %_mandir/man1/*
+%py_sitedir/*
 
