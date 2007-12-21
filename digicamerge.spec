@@ -10,6 +10,7 @@ Source0: 	http://www.librelogiciel.com/software/DigicaMerge/tarballs/%name-%{ver
 URL: 		http://www.librelogiciel.com/software/DigicaMerge/action_Presentation
 License: 	GPL
 Group: 		Graphics
+BuildRoot: 	%{_tmppath}/%{name}-buildroot
 BuildRequires: 	python-devel 
 Requires: 	python
 Buildarch:	noarch
