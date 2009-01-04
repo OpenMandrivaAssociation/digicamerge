@@ -1,6 +1,6 @@
 %define name digicamerge
 %define version 2.00
-%define release  %mkrel 3
+%define release  %mkrel 4
 
 Summary: 	Digital camera filename manager
 Name: 		%{name}
