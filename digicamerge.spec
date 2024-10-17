@@ -7,7 +7,7 @@ Name: 		%{name}
 Version: 	%{version}
 Release: 	%{release}
 Source0: 	http://www.librelogiciel.com/software/DigicaMerge/tarballs/%name-%{version}.tar.bz2
-URL: 		http://www.librelogiciel.com/software/DigicaMerge/action_Presentation
+URL: 		https://www.librelogiciel.com/software/DigicaMerge/action_Presentation
 License: 	GPL
 Group: 		Graphics
 BuildRoot: 	%{_tmppath}/%{name}-buildroot
